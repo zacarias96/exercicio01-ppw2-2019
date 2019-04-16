@@ -1,0 +1,9 @@
+/home/lucas/Dropbox/Github/exercicio01-ppw2-2019/sistema-comercial-001/src/main/java/br/edu/ifg/sistemacomercial/bean/ProdutoBean.java
+/home/lucas/Dropbox/Github/exercicio01-ppw2-2019/sistema-comercial-001/src/main/java/br/edu/ifg/sistemacomercial/dao/ProdutoDAO.java
+/home/lucas/Dropbox/Github/exercicio01-ppw2-2019/sistema-comercial-001/src/main/java/br/edu/ifg/sistemacomercial/entity/Produto.java
+/home/lucas/Dropbox/Github/exercicio01-ppw2-2019/sistema-comercial-001/src/main/java/br/edu/ifg/sistemacomercial/util/FabricadeConexao.java
+/home/lucas/Dropbox/Github/exercicio01-ppw2-2019/sistema-comercial-001/src/main/java/br/edu/ifg/sistemacomercial/bean/converter/CategoriaConverter.java
+/home/lucas/Dropbox/Github/exercicio01-ppw2-2019/sistema-comercial-001/src/main/java/br/edu/ifg/sistemacomercial/dao/CategoriaDAO.java
+/home/lucas/Dropbox/Github/exercicio01-ppw2-2019/sistema-comercial-001/src/main/java/br/edu/ifg/sistemacomercial/entity/Categoria.java
+/home/lucas/Dropbox/Github/exercicio01-ppw2-2019/sistema-comercial-001/src/main/java/br/edu/ifg/sistemacomercial/util/JsfUtil.java
+/home/lucas/Dropbox/Github/exercicio01-ppw2-2019/sistema-comercial-001/src/main/java/br/edu/ifg/sistemacomercial/bean/CategoriaBean.java
